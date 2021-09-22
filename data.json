@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "username": "user1",
+        "name": "User1",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 2,
+        "username": "user2",
+        "name": "User2",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+    {
+        "id": 3,
+        "username": "user3",
+        "name": "User3",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 4,
+        "username": "user4",
+        "name": "User4",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 5,
+        "username": "user5",
+        "name": "User5",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 6,
+        "username": "user6",
+        "name": "User6",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 7,
+        "username": "user7",
+        "name": "User7",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 8,
+        "username": "user8",
+        "name": "User8",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 9,
+        "username": "user9",
+        "name": "User9",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 10,
+        "username": "user10",
+        "name": "User10",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 11,
+        "username": "user11",
+        "name": "User11",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 12,
+        "username": "user12",
+        "name": "User12",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 13,
+        "username": "user13",
+        "name": "User13",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 14,
+        "username": "user14",
+        "name": "User14",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 15,
+        "username": "user15",
+        "name": "User15",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 16,
+        "username": "user16",
+        "name": "User16",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 17,
+        "username": "user17",
+        "name": "User17",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      },
+      {
+        "id": 18,
+        "username": "user18",
+        "name": "User18",
+        "state": "blocked",
+        "address": "address",
+        "city": "São Paulo"
+      }
+  ]
