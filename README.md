@@ -78,7 +78,7 @@ app.delete('/users:id', function(req, res){
 
 ### To test api json use the insomnia!
 
-Below is an example with methods to use with "insomnia" => Use each request GET, POST, UPDATE,
+Below is an example with methods to use with "insomnia" => Use each request GET, POST, UPDATE, DELETE
 ```
 app.get('/users', function(req, res){
     res.json(data);
