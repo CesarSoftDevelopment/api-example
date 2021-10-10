@@ -21,7 +21,8 @@ Let's use json data as an example to consume, the link below to the json:
 https://github.com/CesarSoftDevelopment/api-example/blob/master/data.json
 
 
-**1ª** Create a file to put the routes
+**1ª** Create a file to put the routes  
+
 **server.js**
 
 
@@ -34,7 +35,8 @@ const express = require('express');
 const app = express();
 ```
 
-**3ª** Create a file with the json example obtained from the link with datas:
+**3ª** Create a file with the json example obtained from the link with datas:  
+
 **data.json**
 
 **4ª** Retrive the file  
