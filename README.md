@@ -23,7 +23,7 @@ https://github.com/CesarSoftDevelopment/api-example/blob/master/data.json
 
 **1ª** Create a file to put the routes  
 
-**server.js**
+**server.js**  
 
 
 **INSIDE THE SERVER.JS** ⬇️
@@ -36,6 +36,7 @@ const app = express();
 ```
 
 **3ª** Create a file with the json example obtained from the link with datas:  
+
 
 **data.json**
 
